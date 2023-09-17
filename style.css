@@ -14,6 +14,18 @@ button {
   font-size: 7px;
 }
 
+.low {
+  background-color: green
+}
+
+.medium {
+  background-color: yellow
+}
+
+.high {
+  background-color: red
+}
+
 #main-content {
   position: relative;
   display: flex;
